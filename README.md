@@ -37,7 +37,7 @@ Headings in the file are as follows:
 -----  
 Fig2 is the ilustration (boxplot) generated from DataFig2.csv
 
-Figure Caption: Box plots of IgG Optical Density (OD)405nm from sheep sera: lambs under 3 months of age from a CE-free area (Negative Serum Panel, n=79), adults experimentally infected with positive necropsy (Positive Serum Panel, n=36), and animals with other infections (Cross-reactive Sera, n=20). The solid black horizontal line within the boxes is the median; the lower and upper borders are, respectively, the 1st (Q1) and 3rd (Q3) quartiles; the vertical bars indicate the ‘minimum’ and ‘maximum’ values, calculated as Q1–1.5 × IQR (interquartile range) and Q1+1.5 × IQR, respectively. The open circles represent the outliers. Laboratory (positive, negative and no-antigen) controls are also presented to the right of the vertical dotted line.
+Figure Caption: Box plots of IgG Optical Density (OD) 405nm from sheep sera: Negative Serum Panel (n=79), lambs under 3 months of age from a CE-free area; Positive Serum Panel (n=36), adults experimentally infected with positive necropsy; Cross-reactive Sera (n=20), animals with other parasites. The solid black horizontal line within the boxes is the median; the lower and upper borders are, respectively, the 1st (Q1) and 3rd (Q3) quartiles; the vertical bars indicate the ‘minimum’ and ‘maximum’ values, calculated as Q1–1.5 × IQR (interquartile range) and Q1+1.5 × IQR, respectively. The circles represent the outliers. Laboratory (positive, negative and no-antigen) controls are presented to the right of the vertical dotted line.
 
 -----
 Fig3 is the ilustration (plot) generated from DataFig3.csv
