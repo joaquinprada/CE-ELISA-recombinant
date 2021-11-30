@@ -41,5 +41,5 @@ Fig3 is the ilustration (plot) generated from DataFig3.csv
 Figure Caption: Average Optical Density (OD)405nm of antibody levels against rAg8/2 in serum samples from sheep experimentally infected with 2,000 E. granulosus s.l. eggs (n=5) plotted against time post infection (in weeks) over 49 weeks. The error bars are the standard errors of the means (SEM).
 
 -----
-ScriptFigures contains the code to generate the figures.
+ScriptFigures.R contains the code to generate the figures.
 
