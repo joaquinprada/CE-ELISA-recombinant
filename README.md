@@ -1,7 +1,7 @@
 # CE-ELISA-recombinant
 Dataset of an ELISA test using recombinant B8/2 subunit (IgG rAg8/2) for Echinococcus granulosus sensu lato.
 
-This supplements the data in brief manuscript by T. V. Poggio et al., "Immunodiagnosis of cystic echinococcosis in livestock: Development and validation dataset of an ELISA test using a recombinant B8/2 subunit of Echinococcus granulosus sensu lato", currently under review.
+This supplements the data in brief manuscript by T. V. Poggio et al., "Immunodiagnosis of cystic echinococcosis in livestock: Development and validation dataset of an ELISA test using a recombinant B8/2 subunit of Echinococcus granulosus sensu lato", 2022, https://pubmed.ncbi.nlm.nih.gov/35669005/
 
 
 Description of the Files:
